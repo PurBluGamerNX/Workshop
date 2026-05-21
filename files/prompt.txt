@@ -1,0 +1,86 @@
+🌐 Langkah 1: Prompt Menggunakan Fungsi Web Search
+
+Plaintext
+Bandingkan Intermittent Fasting, Diet Keto, dan panduan Suku-Suku Separuh Malaysia. Fokus kepada kebaikan dan keburukan untuk pekerja pejabat yang sibuk, termasuk masa penyediaan, kos, dan tahap tenaga untuk bekerja.
+
+💬 Langkah 2: Prompt Sembang Biasa
+
+Plaintext
+Berdasarkan sumber, apakah 3 cabaran utama yang dihadapi oleh pekerja pejabat apabila cuba mengamalkan diet Keto berbanding pendekatan Suku-Suku Separuh? Berikan jawapan ringkas dalam bentuk poin (bullet points).
+
+⚙️ BAHAGIAN HUB (CHAT CONFIGURATION)
+1. Audio Overview (Podcast)
+
+Plaintext
+Jadikan podcast ini sangat bertenaga, kelakar, dan penuh dengan lawak jenaka tentang gelagat pekerja pejabat yang suka sorok snek atau jajan daripada rakan sekerja mereka.
+
+Plaintext
+Pastikan perbualan kekal formal, berbentuk analitikal, dan fokus sepenuhnya kepada fakta perubatan serta statistik kesihatan yang tepat.
+
+2. Video Overview (Skrip/Konten Video)
+
+Plaintext
+Hasilkan rangka video yang rancak dan bertenaga tinggi (gaya TikTok) dengan hook yang menarik tentang cara nak elak mengidam teh boba pukul 3 petang.
+
+Plaintext
+Formatkan ini sebagai skrip profesional dan berautoriti yang sesuai untuk video rasmi pengumuman program kesihatan korporat dan HR.
+
+3. Reports (Laporan)
+
+Plaintext
+Ringkaskan laporan ini menjadi taklimat eksekutif 1 halaman menggunakan poin yang padat untuk pihak pengurusan yang sibuk.
+Butang Pensel (Gaya Pelan Tindakan/Actionable):
+
+Plaintext
+Strukturkan laporan ini sebagai strategi tempat kerja yang praktikal dengan senarai tindakan yang jelas dan realistik untuk ahli kakitangan.
+
+
+4. Quiz (Kuiz)
+
+Plaintext
+Bina satu kuiz santai dan kelakar yang mengandungi 5 soalan tentang tabiat diet di pejabat. Sertakan pilihan jawapan yang lucu dan skema jawapan sekali.
+Butang Pensel (Gaya Menguji Mitos vs Fakta):
+
+Plaintext
+Sediakan kuiz jenis "Betul atau Salah" yang khusus untuk membongkar mitos-mitos diet dan pemakanan yang bahaya di tempat kerja.
+
+5. Data table (Jadual Data)
+
+Plaintext
+Strukturkan jadual ini untuk menekankan anggaran kos barangan dapur bulanan dan tahap kesukaran menu bagi seorang pemula.
+Butang Pensel (Fokus Kesan Kepada Tenaga Kerja):
+
+Plaintext
+Susun jadual data untuk menonjolkan secara khusus bagaimana setiap jenis diet mempengaruhi fokus mental dan tahap tenaga sepanjang waktu bekerja 9-ke-5.
+
+6. Slide deck [BETA] (Slaid Pembentangan)
+
+Plaintext
+Bina rangka pembentangan 5 slaid yang sangat meyakinkan untuk membentangkan kebaikan amalan Suku-Suku Separuh kepada ahli lembaga pengarah korporat.
+
+Plaintext
+Formatkan kandungan slaid supaya bersifat edukatif, langkah-demi-langkah, dan mudah diikuti oleh kakitangan semasa sesi latihan kesihatan.
+
+7. Mind Map (Peta Minda)
+
+Plaintext
+Strukturkan nod peta minda untuk menghubungkan dengan jelas antara tabiat makan yang buruk dengan masalah kelesuan di pejabat serta penurunan produktiviti kerja.
+
+Plaintext
+Bina cawangan peta minda berasaskan penyelesaian yang memfokuskan kepada pengganti makanan (meal replacements) yang cepat dan kos rendah untuk profesional yang sibuk.
+
+8. Flashcards (Kad Imbasan)
+
+Plaintext
+Hasilkan kad imbasan yang mendefinisikan istilah utama diet (seperti Ketosis, Fasting Window, dan Calori Deficit) menggunakan penjelasan mudah sepanjang 1 ayat sahaja.
+
+Plaintext
+Bina kad imbasan yang mengandungi peraturan ringkas "Boleh & Tidak Boleh" (Do's and Don'ts) bagi setiap jenis diet untuk rujukan pantas kakitangan waktu makan tengah hari.
+
+9. Infographic [BETA] (Infografik)
+
+Plaintext
+Reka letak infografik untuk menyerlahkan secara visual data peratusan, tempoh masa jangka hayat diet, dan statistik penurunan berat badan.
+
+Plaintext
+Formatkan kandungan infografik menjadi panduan visual 3 langkah mudah tentang cara menukar gaya pemakanan tanpa rasa lemau atau 'crash' di tempat kerja.
